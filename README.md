@@ -1,3 +1,7 @@
+## Note - All the R and png files are within the "figure" folder.
+
+
+
 ## Introduction
 
 This assignment uses data from
